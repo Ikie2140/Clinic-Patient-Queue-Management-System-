@@ -1,0 +1,9 @@
+ticket,patientId,priority,reason,time,status
+Q-001,1,EMERGENCY,Heartburn,08:00,COMPLETED
+Q-002,2,REGULAR,Headache,08:15,WAITING
+Q-003,3,URGENT,High fever,08:30,WAITING
+Q-004,4,REGULAR,Follow-up consultation,08:45,WAITING
+Q-005,5,EMERGENCY,Chest pain,09:00,COMPLETED
+Q-006,6,URGENT,Severe cough,09:15,WAITING
+Q-007,2,REGULAR,Annual checkup,09:30,COMPLETED
+Q-008,3,REGULAR,Blood pressure monitoring,09:45,CANCELLED
